@@ -1,6 +1,5 @@
 const config = {
   
-//  PROJECT_URL: "https://server.vasudevhealthcare.com",
  PROJECT_URL: "http://localhost:5000",
 
 
